@@ -20,6 +20,7 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 | Лекция 3 | 01.10.2024 | Градиентная оптимизация: метод стохастического градиентного спуска | [видеозапись](https://ml4es.ru/links/2024-10-01-DL4ES2024-Lect03)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect03) |
 | Лекция 4 | 08.10.2024 | Автоматическое вычисление градиентов.<br />Метод обратного распространения ошибки. | [видеозапись](https://ml4es.ru/links/2024-10-08-DL4ES2024-Lect04)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect04) |
 | ДЗ №1 | 03.11.2024<br />deadline: **22.10.2024** | Оптимизация линейной регрессии методом градиентного спуска с автоматическим вычислением градиентов функции потерь по методу обратного распространения ошибки. | [условие и данные](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/HW01) |
+| Лекция 5 | 29.10.2024 | Разбор ДЗ №1 | [видеозапись](https://ml4es.ru/links/2024-10-29-DL4ES-Lect05)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect05) |
 
 
 
