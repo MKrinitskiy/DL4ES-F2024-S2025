@@ -24,6 +24,7 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 | Лекция 6 | 12.11.2024 | Оптимизация нейросетей. Алгоритмы семейства стохастической градиентной оптимизации: SGD, Momentum, AdaGrad, Adam. | [видеозапись](https://ml4es.ru/links/2024-11-12-DL4ES-Lect06)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect06) |
 | ДЗ №2 | 12.11.2024<br />deadline: **03.12.2024** | Оптимизация многослойного перцептрона методом градиентного спуска с автоматическим вычислением градиентов функции потерь по методу обратного распространения ошибки. | [условие и данные](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/HW02) |
 | Лекция 7 | 19.11.2024 | Pytorch для реализации и обучения нейросетей: hands-on. | [видеозапись](https://ml4es.ru/links/2024-11-19-DL4ES-Lect07)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect07) |
+| Лекция 8 | 26.11.2024 | Tensorboard: инструмент для анализа нейросетей и мониторинга процесса обучения. | [видеозапись](https://ml4es.ru/links/2024-11-19-DL4ES2024-Lect08)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect08) |
 
 
 
