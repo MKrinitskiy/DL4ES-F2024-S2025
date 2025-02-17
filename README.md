@@ -36,6 +36,8 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 | Лекция 7 | 19.11.2024 | Pytorch для реализации и обучения нейросетей: hands-on. | [видеозапись](https://ml4es.ru/links/2024-11-19-DL4ES-Lect07)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect07) |
 | Лекция 8 | 26.11.2024 | Tensorboard: инструмент для анализа нейросетей и мониторинга процесса обучения. | [видеозапись](https://ml4es.ru/links/2024-11-19-DL4ES2024-Lect08)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect08) |
 | Лекция 9 | 03.12.2024 | Свойства воспринимаемого ландшафта функции потерь нейросети<br />Расписание шага обучения. | [видеозапись](https://ml4es.ru/links/2024-12-03-DL4ES2024-Lect09)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect09) |
+|  |  | II семестр |  |
+| Лекция 10 | 11.02.2025 | Роль начального приближения в задаче оптимизации глубоких искусственных нейронных сетей | [видеозапись](https://ml4es.ru/links/2025-02-11-DL4ES2024-Lect10)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect10) |
 
 
 
