@@ -38,6 +38,7 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 | Лекция 9 | 03.12.2024 | Свойства воспринимаемого ландшафта функции потерь нейросети<br />Расписание шага обучения. | [видеозапись](https://ml4es.ru/links/2024-12-03-DL4ES2024-Lect09)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect09) |
 |  |  | II семестр |  |
 | Лекция 10 | 11.02.2025 | Роль начального приближения в задаче оптимизации глубоких искусственных нейронных сетей | [видеозапись](https://ml4es.ru/links/2025-02-11-DL4ES2024-Lect10)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect10) |
+| Лекция 11 | 18.02.2025 | Роль начального приближения в задаче оптимизации глубоких искусственных нейронных сетей.<br />Инициализации [Kaiming He](https://arxiv.org/abs/1502.01852), [Xavier Glorot](https://proceedings.mlr.press/v9/glorot10a.html) | [видеозапись](https://ml4es.ru/links/2025-02-18-DL4ES2024-Lect11)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect11) |
 
 
 
