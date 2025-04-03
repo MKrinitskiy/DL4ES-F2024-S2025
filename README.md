@@ -39,6 +39,11 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 |  |  | II семестр |  |
 | Лекция 10 | 11.02.2025 | Роль начального приближения в задаче оптимизации глубоких искусственных нейронных сетей | [видеозапись](https://ml4es.ru/links/2025-02-11-DL4ES2024-Lect10)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect10) |
 | Лекция 11 | 18.02.2025 | Роль начального приближения в задаче оптимизации глубоких искусственных нейронных сетей.<br />Инициализации [Kaiming He](https://arxiv.org/abs/1502.01852), [Xavier Glorot](https://proceedings.mlr.press/v9/glorot10a.html) | [видеозапись](https://ml4es.ru/links/2025-02-18-DL4ES2024-Lect11)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect11) |
+| Лекция 12 | 25.02.2025 | Пакетная нормализация карт активаций | [видеозапись](https://ml4es.ru/links/2025-02-25-DL4ES2024-Lect12)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect12) |
+| Лекция 13 | 04.03.2025 | Шум в оптимизации нейросетей.<br />Искусственное дополнение данных (Data augmentation) | [видеозапись](https://ml4es.ru/links/2025-03-04-DL4ES2024-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect13) |
+| Лекция 14 | 11.03.2025 | Искусственное дополнение данных (Data augmentation) | [видеозапись](https://ml4es.ru/links/2025-03-11-DL4ES2024-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect14) |
+| Лекция 15 | 18.03.2025 | Функции активации: часть 1. | [видеозапись](https://ml4es.ru/links/2025-03-18-DL4ES2024-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect15) |
+| Лекция 16 | 25.03.2025 | Функции активации: часть 2. | [видеозапись](https://ml4es.ru/links/2025-03-25-DL4ES2024-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect16) |
 
 
 
