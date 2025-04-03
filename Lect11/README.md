@@ -1,4 +1,4 @@
-## ML4ES, Лекция 11
+## DL4ES, Лекция 11
 
 #### Роль начального приближения в задаче оптимизации глубоких искусственных нейронных сетей. Инициализации [Kaiming He](https://arxiv.org/abs/1502.01852), [Xavier Glorot](https://proceedings.mlr.press/v9/glorot10a.html).
 
