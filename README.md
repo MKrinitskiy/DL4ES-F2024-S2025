@@ -19,6 +19,16 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 
 
 
+## Зачетная сессия II-го семестра
+
+Состав домашних заданий зафиксирован на одном, [ДЗ3](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/HW03).
+
+[Здесь](./leaderboard_2semester.md) приводятся отметки об автозачетах, допуске к зачету и зачетах.
+
+[Здесь](./term2_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
+
+
+
 
 -------
 
