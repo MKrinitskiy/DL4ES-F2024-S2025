@@ -49,6 +49,7 @@ Deep Learning for Earth Sciences F2024-S2025 by [Mikhail Krinitskiy](https://sai
 | Лекция 19 | 15.04.2025 | Сверточные нейронные сети. Ч.2. | [видеозапись](https://ml4es.ru/links/2025-04-15-DL4ES2024-Lect19)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect18) |
 | Лекция 20 | 22.04.2025 | Сверточные нейронные сети. Ч.3. | [видеозапись](https://ml4es.ru/links/2025-04-22-DL4ES2024-Lect20)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect20) |
 | Лекция 21 | 06.05.2025 | Автокодировщики<br />Задача идентификации аномалий. | [видеозапись](https://ml4es.ru/links/2025-05-06-DL4ES2024-Lect21)<br />[материалы занятия](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/Lect21) |
+| ДЗ №3 | 06.05.2025<br />deadline: **19.05.2025** | Свёрточный автокодировщик для идентификации аномалий. | [аннотация и рамочный ноутбук](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/tree/main/HW03)<br />[leaderboard](https://github.com/MKrinitskiy/DL4ES-F2024-S2025/blob/main/HW03/leaderboard.md) |
 
 
 
